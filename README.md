@@ -1,9 +1,3 @@
-<!-- 1. Hẹn giờ đồng hồ -->
-
-<!-- SonarQube -->
-
-<!-- Design patern Python oop -->
-
 <!-- ASUS -->
 
 Cáp màn hình
@@ -12,20 +6,9 @@ Sạc lỏng
 
 Vệ sinh máy
 
-<!-- Auto py -->
-
-Mail+pos gél sql Adapter mysql+pos
-Lập lịch python
-
 <!-- Html link map -->
 
 <!-- fbclid -->
-
-<!-- Mật mã -->
-
-synonyms []
-
-3 dạng: bảng, sơ đồ, máy
 
 <!-- Nhạc -->
 
@@ -33,7 +16,7 @@ synonyms []
 
 <!-- Auto 123 host -->
 
-<!-- Tóc -->
+<!-- !Tóc -->
 
 <!-- Vscode   -->
 
@@ -41,3 +24,25 @@ synonyms []
 
 Dèaut format
 Format on save
+
+<!-- 20232 -->
+<!-- 1. Hẹn giờ đồng hồ -->
+<!-- HHTQĐ -->
+<!-- Tech -->
+<!-- Mat Ma -->
+
+<!-- Mật mã -->
+
+synonyms []
+
+3 dạng: bảng, sơ đồ, máy
+
+<!-- Kho -->
+<!-- SonarQube -->
+<!-- Design patern Python oop -->
+<!-- !BT KHO -->
+
+<!-- Auto py -->
+
+Mail+pos gél sql Adapter mysql+pos
+Lập lịch python
