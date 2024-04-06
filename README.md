@@ -2,8 +2,6 @@
 
 Cáp màn hình
 
-Sạc lỏng
-
 Vệ sinh máy
 
 <!-- Html link map -->
@@ -40,9 +38,12 @@ synonyms []
 <!-- Kho -->
 <!-- SonarQube -->
 <!-- Design patern Python oop -->
-<!-- !BT KHO -->
 
 <!-- Auto py -->
 
 Mail+pos gél sql Adapter mysql+pos
 Lập lịch python
+
+<!-- !BT KHO -->
+
+<!-- !Xem video điện thoại -->
