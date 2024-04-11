@@ -47,3 +47,13 @@ Lập lịch python
 <!-- !BT KHO -->
 
 <!-- !Xem video điện thoại -->
+
+<!-- !Chiều nay mật mã -->
+
+video lớp 1,3,2
+file read me, latex
+sách
+
+
+relase git python
+<!-- !vscode -->
