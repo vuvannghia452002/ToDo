@@ -12,25 +12,21 @@ Vệ sinh máy
 <!-- !Tóc -->
 
 <!-- 20232 -->
+
 <!-- HHTQĐ -->
+
 <!-- Tech -->
+
 <!-- Mật mã -->
 
 synonyms []
-
 3 dạng: bảng, sơ đồ, máy
-
-<!-- !Chiều nay mật mã -->
-
 video lớp 1,3,2
 file read me, latex
 sách
 Đề thi
 3 loại
 Code tools
-
-<!--  -->
-
 Automat
 Tm
 
@@ -56,8 +52,6 @@ Lập lịch python
 Tóc
 
 <!-- !vscode -->
-
-<!-- Vscode   -->
 
 72 73 82 83 84 85 86 8.11 9.9 9.15 7.17
 
