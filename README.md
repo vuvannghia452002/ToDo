@@ -16,12 +16,6 @@ Vệ sinh máy
 
 <!-- !Tóc -->
 
-<!-- Vscode   -->
-
-72 73 82 83 84 85 86 8.11 99
-
-Dèaut format
-Format on save
 
 <!-- 20232 -->
 <!-- 1. Hẹn giờ đồng hồ -->
@@ -36,7 +30,9 @@ synonyms []
 3 dạng: bảng, sơ đồ, máy
 
 <!-- Kho -->
+
 <!-- SonarQube -->
+
 <!-- Design patern Python oop -->
 
 <!-- Auto py -->
@@ -46,7 +42,6 @@ Lập lịch python
 
 <!-- !BT KHO -->
 
-<!-- !Xem video điện thoại -->
 
 <!-- !Chiều nay mật mã -->
 
@@ -55,5 +50,16 @@ file read me, latex
 sách
 
 
-relase git python
+<!-- !relase git python -->
+
 <!-- !vscode -->
+
+<!-- Vscode   -->
+
+72 73 82 83 84 85 86 8.11 99
+
+Dèaut format
+Format on save
+
+
+  
