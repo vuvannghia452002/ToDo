@@ -16,8 +16,8 @@ Vệ sinh máy
 
 <!--= Mật mã -->
 
-
 <!--= Kho -->
+
 view thông tin + log
 ETL tools
 
@@ -29,7 +29,6 @@ ETL tools
 Mail+pos gél sql Adapter mysql + pos
 Lập lịch python
 
-
 <!-- !relase git python -->
 <!-- GitHub Action -->
 
@@ -40,9 +39,10 @@ Mail
 
 Lập lịch python
 
-
-
 <!-- Tai video -->
+
 nhập link
 bắt dầu tải
 list=set
+
+<!-- Học latex -->
