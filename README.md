@@ -16,20 +16,11 @@ Vệ sinh máy
 
 <!--= Mật mã -->
 
-synonyms []
-3 dạng: bảng, sơ đồ, máy
-video lớp 1,3,2
-file read me, latex
-sách
-Đề thi
-3 loại
-Code tools
-
-
-Automata
-Turing machine
 
 <!--= Kho -->
+view thông tin + log
+ETL tools
+
 <!-- !BT KHO -->
 
 <!-- Design patern Python oop -->
@@ -48,3 +39,10 @@ Cron job
 Mail
 
 Lập lịch python
+
+
+
+<!-- Tai video -->
+nhập link
+bắt dầu tải
+list=set
