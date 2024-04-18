@@ -15,17 +15,18 @@
 <!-- ETL tools -->
 <!-- view thông tin sql + log -->
 <!-- GitHub Action -->
-Lập lịch python Auto: mail;   adapter   sql 
+
+Lập lịch python Auto: mail; adapter sql
 Releases: git python
-<!-- Design patern Python oop -->
-==================
+
+# <!-- Design patern Python oop -->
+
 <!-- ASUS -->
 
 Cáp màn hình
 Vệ sinh máy
 
 <!-- Tải nhạc -->
-
 
 <!-- Auto 123 host -->
 
@@ -37,9 +38,7 @@ nhập link
 bắt dầu tải
 list=set
 
-
 <!-- Tn phong -->
-
 
 <!-- CK_MatMa -->
 
