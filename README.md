@@ -1,4 +1,3 @@
-
 <!--= HHTQĐ -->
 
 <!--= Tech -->
@@ -8,11 +7,6 @@
 <!--= Mật mã -->
 
 <!--= Kho -->
-
-
-
-
-
 
 <!-- ! HR -->
 <!-- !canvas -->
@@ -26,19 +20,20 @@ Mail+pos gél sql Adapter mysql + pos
 Lập lịch python
 
 <!-- ! github -->
-Github action
 
+Github action
 
 <!-- !relase git python -->
 <!-- GitHub Action -->
+
 Releases
 Cron job
 Mail
 Lập lịch python
+
 <!-- ETL tools -->
 <!-- view thông tin + log -->
 <!-- Design patern Python oop -->
-
 
 ==================
 
@@ -55,36 +50,20 @@ Vệ sinh máy
 
 <!-- !Tóc -->
 
-
-
-
-
-
-
-
-
 <!-- Tai video -->
 
 nhập link
 bắt dầu tải
 list=set
 
-
-
-
-
-
-
 <!-- v2ray-ubuntu -->
 
 <!-- Tn phong -->
-
-
-
 
 <!-- Giày -->
 
 <!-- CK_MatMa -->
 
 <!-- git: nghia- -->
+
 git: nghia- bookmarks
