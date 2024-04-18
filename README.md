@@ -45,4 +45,9 @@ nhập link
 bắt dầu tải
 list=set
 
-<!-- Học latex -->
+<!--! Học latex -->
+<!-- ! HR -->
+<!-- !  Slide -->
+<!-- !canvas -->
+<!-- ! github -->
+<!-- !bt kho -->
