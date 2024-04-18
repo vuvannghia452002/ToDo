@@ -2,53 +2,34 @@
 
 <!--= Tech -->
 
-<!--! Học latex -->
-<!-- Latex mẫu -->
+<!-- Học latex -->
+
+<!-- Tạo Latex mẫu -->
+
 <!--= Mật mã -->
 
 <!--= Kho -->
-
-<!-- ! HR -->
-<!-- !canvas -->
-<!-- !bt kho -->
-
-<!-- !BT KHO -->
-
-<!-- Auto py -->
-
-Mail+pos gél sql Adapter mysql + pos
-Lập lịch python
-
-<!-- ! github -->
-
-Github action
-
-<!-- !relase git python -->
-<!-- GitHub Action -->
-
-Releases
-Cron job
-Mail
-Lập lịch python
-
+<!-- canvas -->
+<!--  HR -->
+<!-- bt kho -->
 <!-- ETL tools -->
-<!-- view thông tin + log -->
+<!-- view thông tin sql + log -->
+<!-- GitHub Action -->
+Lập lịch python Auto: mail;   adapter   sql 
+Releases: git python
 <!-- Design patern Python oop -->
-
 ==================
-
 <!-- ASUS -->
 
 Cáp màn hình
 Vệ sinh máy
 
-<!-- fbclid -->
-
 <!-- Tải nhạc -->
+
 
 <!-- Auto 123 host -->
 
-<!-- !Tóc -->
+<!-- Dịch VN -->
 
 <!-- Tai video -->
 
@@ -56,14 +37,20 @@ nhập link
 bắt dầu tải
 list=set
 
-<!-- v2ray-ubuntu -->
 
 <!-- Tn phong -->
 
-<!-- Giày -->
 
 <!-- CK_MatMa -->
 
 <!-- git: nghia- -->
 
-git: nghia- bookmarks
+git: nghia- bookmarks: fbclid
+
+<!--= Note -->
+
+<!-- Học latex -->
+<!--  HR -->
+<!-- !Tóc -->
+<!-- Giày -->
+<!-- v2ray-ubuntu -->
