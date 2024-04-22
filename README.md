@@ -6,12 +6,6 @@
 <!--= Mật mã -->
 
 <!--= Kho -->
-<!-- canvas -->
-<!--  HR -->
-<!-- ETL tools -->
-<!-- view thông tin sql + log -->
-
-# <!-- Design patern Python oop -->
 
 <!-- ASUS -->
 
@@ -30,7 +24,6 @@ nhập link
 bắt dầu tải
 list=set
 
-<!-- Tn phong -->
 
 <!-- CK_MatMa -->
 
