@@ -11,13 +11,8 @@
 <!--= Kho -->
 <!-- canvas -->
 <!--  HR -->
-<!-- bt kho -->
 <!-- ETL tools -->
 <!-- view thông tin sql + log -->
-<!-- GitHub Action -->
-
-Lập lịch python Auto: mail; adapter sql
-Releases: git python
 
 # <!-- Design patern Python oop -->
 
@@ -49,6 +44,7 @@ git: nghia- bookmarks: fbclid
 <!--= Note -->
 
 <!-- Học latex -->
+
 <!--  HR -->
 
 <!-- Giày -->
@@ -56,3 +52,6 @@ git: nghia- bookmarks: fbclid
 
 <!-- !Tóc -->
 
+Kho latex đỏ
+Lập lịch python Auto: mail; adapter sql
+<!-- bt kho -->
