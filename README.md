@@ -2,9 +2,6 @@
 
 <!--= Tech -->
 
-<!-- Học latex -->
-
-<!-- Tạo Latex mẫu -->
 
 <!--= Mật mã -->
 
@@ -37,21 +34,18 @@ list=set
 
 <!-- CK_MatMa -->
 
-<!-- git: nghia- -->
-
-git: nghia- bookmarks: fbclid
-
 <!--= Note -->
-
-<!-- Học latex -->
-
-<!--  HR -->
-
+<!-- bt kho -->
+<!-- Kho latex đỏ -->
+<!-- Lập lịch python Auto: mail; adapter sql -->
 <!-- Giày -->
-
-
+<!-- git: nghia- -->
+<!-- git: nghia- bookmarks: fbclid -->
+<!--  HR -->
 <!-- !Tóc -->
 
-Kho latex đỏ
-Lập lịch python Auto: mail; adapter sql
-<!-- bt kho -->
+
+
+
+
+
