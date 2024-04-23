@@ -30,7 +30,6 @@ list=set
 <!-- Kho latex đỏ -->
 <!-- Lập lịch python Auto: mail; adapter sql -->
 <!-- Giày -->
-<!-- git: nghia- -->
-<!-- git: nghia- bookmarks: fbclid -->
+
 <!--  HR -->
 <!-- !Tóc -->
