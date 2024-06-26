@@ -1,11 +1,6 @@
-
-
-
-
 <!-- ASUS -->
 
 Cáp màn hình
-Vệ sinh máy
 
 <!-- Tải nhạc -->
 
@@ -19,17 +14,4 @@ nhập link
 bắt dầu tải
 list=set
 
-<!-- CK_MatMa -->
-
-<!--= Note -->
-<!-- bt kho -->
-<!-- Kho latex đỏ -->
-<!-- Lập lịch python Auto: mail; adapter sql -->
-<!-- Giày -->
-
-<!--  HR -->
 <!-- !Tóc -->
-
-
-
-<!-- Latex Kho -->
